@@ -1,0 +1,1 @@
+console.log(`api key ${API_KEY}`); //asi lo accedo, debe etar antes del main.js
